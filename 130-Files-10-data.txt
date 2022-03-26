@@ -1,0 +1,3 @@
+Welcome to Rathinam Trainers.
+This is python training.
+We are learning File I/O.
